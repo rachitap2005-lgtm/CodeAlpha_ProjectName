@@ -1,0 +1,69 @@
+PROJECT DOCUMENT:- Chatbot using Python
+
+Project Title: - Basic Chatbot using Python
+  
+Abstract:
+The Basic Chatbot is a rule-based conversational application developed using Python. 
+  It is designed to interact with users through text-based communication by responding to predefined questions and common conversational inputs. 
+  The chatbot simulates basic human interaction and demonstrates the implementation of fundamental Artificial Intelligence concepts using Python programming.
+
+Problem Statement:
+Develop a Python-based chatbot that can communicate with users by accepting text input and providing appropriate predefined responses to common queries and greetings.
+
+Objectives:
+- To create an interactive chatbot application.
+- To understand the fundamentals of chatbot development.
+- To implement Python programming concepts in a real-world application.
+- To improve logical thinking and problem-solving skills.
+- To simulate human-computer interaction.
+
+Scope of Project:
+This project is intended for educational and beginner-level chatbot development. It demonstrates text-based interaction and can be extended into advanced AI chatbot systems using APIs and machine learning.
+
+Technologies Used:
+**Programming Language:**
+- Python
+
+**Concepts Used:**
+- Conditional Statements
+- Loops
+- Functions
+- String Handling
+- User Input Handling
+
+**Optional Libraries (if used):**
+- NLTK
+- Tkinter
+- Random
+
+System Requirements:
+
+**Hardware Requirements:**
+- Computer/Laptop
+- Minimum 2GB RAM
+
+**Software Requirements:**
+- Python 3.x
+- VS Code / PyCharm / IDLE
+
+Methodology:
+1. Accept user input through the console.
+2. Compare user input with predefined responses.
+3. Match greetings or common questions.
+4. Display appropriate chatbot response.
+5. Continue interaction until user exits.
+  
+Algorithm:
+Step 1: Start  
+Step 2: Display chatbot welcome message  
+Step 3: Accept user input  
+Step 4: Convert input to standard format  
+Step 5: Check matching condition  
+Step 6: Display chatbot response  
+Step 7: Ask for next input  
+Step 8: If user enters exit/bye → End  
+Step 9: Otherwise continue conversation  
+
+---
+
+### 10. Flowchart
